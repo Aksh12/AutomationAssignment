@@ -1,0 +1,4 @@
+INFO    2020-09-26 20:16:36,875 [main] base.TestBase  - Appium Server Started !!
+INFO    2020-09-26 20:16:36,886 [main] base.TestBase  - flipkart_Android.properties properties file loaded !!!
+INFO    2020-09-26 20:17:25,255 [main] base.TestBase  - Test case execution completed
+INFO    2020-09-26 20:17:25,306 [main] base.TestBase  - Appium server stopped !!!
